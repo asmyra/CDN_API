@@ -17,3 +17,6 @@ Setup
 Installation: No specific installation is required for this project. Simply import the provided .oml file into your OutSystems environment.
 Configuration: Ensure that the necessary database connection is properly configured in your OutSystems environment to enable data storage for freelancers.
 Access: Once deployed, the API endpoints will be accessible at the specified base URL.
+
+URL:
+https://personal-kn1hgjhk.outsystemscloud.com/CDN_WebApp/
